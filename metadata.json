@@ -1,0 +1,6 @@
+{
+  "name": "Local Help",
+  "description": "Find verified local professionals for cleaning, plumbing, and electrical repairs with ratings, reviews, real-time booking, and Google Drive receipt backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
